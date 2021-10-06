@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Image folders
+images/
+testSetPlaces205_resize.tar.gz
+testSetPlaces205_resize/
+
+# Anaconda
+Anaconda3-2020.02-Linux-x86_64.sh
