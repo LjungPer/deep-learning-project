@@ -132,9 +132,11 @@ dmypy.json
 images/
 testSetPlaces205_resize.tar.gz
 testSetPlaces205_resize/
+test/
 
 # Anaconda
 Anaconda3-2020.02-Linux-x86_64.sh
 
 # tmp notebook
 tmp.ipynb
+testing.ipynb
