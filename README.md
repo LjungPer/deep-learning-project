@@ -1,2 +1,1 @@
-# deep-learning-project
-Project in the course deep machine learning (SSY340 / DIT968)
+![caption](https://raw.githubusercontent.com/LjungPer/deep-learning-project/main/videos/psycho.mp4)
