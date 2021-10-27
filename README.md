@@ -1,1 +1,4 @@
-![caption](https://raw.githubusercontent.com/LjungPer/deep-learning-project/main/videos/psycho.mp4)
+### Colorization of classic movies
+
+## Example image
+![alt text](https://github.com/LjungPer/deep-learning-project/blob/main/figures/psycho.jpg)
