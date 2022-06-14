@@ -5,7 +5,7 @@ This repository contains code, notebooks, and a summary of a deep learning proje
 ## Example images
 
 ### Psycho (1960)
-<img src="https://github.com/LjungPer/deep-learning-project/blob/main/figures/psycho.jpg" data-canonical-src="https://github.com/LjungPer/deep-learning-project/blob/main/figures/psycho.jpg" width="800" height="400" />
+<img src="https://github.com/LjungPer/deep-learning-project/blob/main/figures/psycho.jpg" data-canonical-src="https://github.com/LjungPer/deep-learning-project/blob/main/figures/psycho.jpg" width="600" height="300" />
 
 ### High and Low (1963)
-<img src="https://github.com/LjungPer/deep-learning-project/blob/main/figures/high_and_low.jpg" data-canonical-src="https://github.com/LjungPer/deep-learning-project/blob/main/figures/high_and_low.jpg" width="800" height="400" />
+<img src="https://github.com/LjungPer/deep-learning-project/blob/main/figures/high_and_low.jpg" data-canonical-src="https://github.com/LjungPer/deep-learning-project/blob/main/figures/high_and_low.jpg" width="600" height="300" />
