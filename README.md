@@ -1,4 +1,4 @@
-# Colorization of classic black and white movies
+# Colorization of classic movies using deep learning
 
 This repository contains code, notebooks, and a summary of a deep learning project with the goal of colorizing black and white movies. The project is described in detail in the [project report](https://github.com/LjungPer/deep-learning-project/blob/main/colorization_of_classic_movies.pdf), and for a detailed description of its implementation, see [project notebook](https://github.com/LjungPer/deep-learning-project/blob/main/notebook.ipynb). 
 
