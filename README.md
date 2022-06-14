@@ -9,3 +9,6 @@ This repository contains code, notebooks, and a summary of a deep learning proje
 
 ### High and Low (1963)
 <img src="https://github.com/LjungPer/deep-learning-project/blob/main/figures/high_and_low.jpg" data-canonical-src="https://github.com/LjungPer/deep-learning-project/blob/main/figures/high_and_low.jpg" width="600" height="300" />
+
+### 12 Angry Men (1957)
+<img src="https://github.com/LjungPer/deep-learning-project/blob/main/figures/12_angry_men.jpg" data-canonical-src="[https://github.com/LjungPer/deep-learning-project/blob/main/figures/12_angry_men.jpg" width="600" height="300" />
